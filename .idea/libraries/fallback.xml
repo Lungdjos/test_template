@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="fallback">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-teplate/node_modules/@microsoft/teamsfx-core/templates/fallback/js.zip!/" />
+      <root url="jar://$PROJECT_DIR$/test-teplate/node_modules/@microsoft/teamsfx-core/templates/fallback/ts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/test-teplate/node_modules/@microsoft/teamsfx-core/templates/fallback/csharp.zip!/" />
+      <root url="jar://$PROJECT_DIR$/test-teplate/node_modules/@microsoft/teamsfx-core/templates/fallback/common.zip!/" />
+      <root url="jar://$PROJECT_DIR$/test-teplate/node_modules/@microsoft/teamsfx-core/templates/fallback/python.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

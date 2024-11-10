@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="fallback2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/test-teplate/node_modules/@microsoft/teamsapp-cli/templates/fallback/js.zip!/" />
+      <root url="jar://$PROJECT_DIR$/test-teplate/node_modules/@microsoft/teamsapp-cli/templates/fallback/python.zip!/" />
+      <root url="jar://$PROJECT_DIR$/test-teplate/node_modules/@microsoft/teamsapp-cli/templates/fallback/common.zip!/" />
+      <root url="jar://$PROJECT_DIR$/test-teplate/node_modules/@microsoft/teamsapp-cli/templates/fallback/ts.zip!/" />
+      <root url="jar://$PROJECT_DIR$/test-teplate/node_modules/@microsoft/teamsapp-cli/templates/fallback/csharp.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
