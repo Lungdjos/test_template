@@ -43,7 +43,9 @@ export function generateProcurementDocument(docBody) {
     docBody.insertParagraph("Open National Bidding", Word.InsertLocation.end).bold = true;
 
     // Insert the date
-    docBody.insertParagraph(formatDateToMonthYear(new Date()), Word.InsertLocation.end);
+    const currentDate = new Date();
+    const formattedDate = formatDateToMonthYear(currentDate);
+    docBody.insertParagraph(formattedDate, Word.InsertLocation.end);
 
     // Insert "Foreword" as a heading
     docBody.insertParagraph("Foreword", Word.InsertLocation.end).style = "Heading 1";
